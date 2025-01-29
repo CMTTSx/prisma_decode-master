@@ -1,13 +1,4 @@
-<h1 align="center">
-  <center>Prisma: o ORM Node.js que você precisa em 2022
-</center>
-</h1>
-
-<p align="center">Nessa live vimos o poder do <a href="https://www.prisma.io">PrismaIO</a> e os motivos para usarmos ele em nossas aplicações</p>
-
-## 👨🏼‍💻 Instrutor
-
-- [Dani Leão](https://www.instagram.com/dani_leao/)
+<
 
 ## ✋🏻 Pré-requisitos
 
@@ -48,9 +39,3 @@ const product = await prismaClient.product.findFirst({
   },
 });
 ```
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
-Feito com 💖 by Rocketseat 👋 [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
